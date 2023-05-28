@@ -1,2 +1,2 @@
 # IS-term
-Codes and datasets for Information Science terms extraction with LLMs
+Codes, datasets, application for Information Science terms extraction with LLMs
