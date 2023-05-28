@@ -7,7 +7,7 @@ import time
 import json
 import openai
 
-openai.api_key = r'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'
+openai.api_key = r'please request from author'
 
 
 def home(request):
