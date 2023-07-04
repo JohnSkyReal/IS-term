@@ -1,3 +1,5 @@
-# IS-term
+# IS-term extraction
 Codes, datasets, application for Information Science terms extraction with LLMs.    
-Contact: hhtdlam@126.com.
+Contact: hhtdlam@126.com.    
+
+Under construction...    
